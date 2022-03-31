@@ -21,7 +21,7 @@ export default function SocialFollow() {
         className="github social">
       <FontAwesomeIcon icon={faGithub} size="4x"/>
       </a> <br/><br/> 
-      <a href="https://www.youtube.com/channel/UChB1VE3VaXUxq4xcHiz679w" target="blank"
+      <a href="https://www.youtube.com/channel/UChB1VE3VaXUxq8xcHiz679w" target="blank"
         className="youtube social">
         <FontAwesomeIcon icon={faYoutube} size="4x" />
       </a> <br/><br/> 
