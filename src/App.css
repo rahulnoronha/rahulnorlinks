@@ -1,0 +1,40 @@
+body{   
+  margin:0;
+  text-align: center;
+  background: #eee;
+}
+
+.social-container {
+  background: #eee;
+  color: darkblue;
+  font-size: 28px;
+}
+
+a.social {
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-10px);
+}
+
+a.mail{
+  color: darkblue;
+  text-decoration: none;
+}
+a.linkedin{
+  color:#091d49;
+}
+
+a.github{
+  color: black;
+}
+a.youtube {
+  color: #eb3223;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
